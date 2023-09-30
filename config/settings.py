@@ -78,7 +78,7 @@ DATABASE_DATA = db_config(filename=Path(BASE_DIR, 'database.ini'))
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'catalog',
+        'NAME': 'catalog_app',
         'USER': DATABASE_DATA['user'],
         'PASSWORD': DATABASE_DATA['password'],
         'HOST': DATABASE_DATA['host'],
