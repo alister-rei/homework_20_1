@@ -1,6 +1,8 @@
 # Aleksey Khadkov
 
-## Homework 19.2 :
+## Для подключения к базе данных создать файл `database.ini`, добавить в него : user, password, host,
+
+## Homework 20.1:
 
 - 1: Создан и настроен проэкт `Django`.
 - 2: Создана база данных `catalog_app`.
